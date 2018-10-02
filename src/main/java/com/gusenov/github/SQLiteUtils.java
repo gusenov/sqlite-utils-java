@@ -268,7 +268,6 @@ public class SQLiteUtils {
 
         /**
          * @see <a href="https://stackoverflow.com/a/10734148/2289640">How to override toString() properly in Java?</a>
-         * @return
          */
         public String toString() {
             return sql.toString();
